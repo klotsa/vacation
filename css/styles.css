@@ -8,9 +8,15 @@
 
 p {
 
+color: green;
+font-size: 18px;
 
 }
 .panel-heading {
 font-size: 2em;
 
+}
+
+.footer {
+  padding: 20px;
 }
