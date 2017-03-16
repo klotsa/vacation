@@ -1,12 +1,16 @@
 .jumbotron {
 
-  background-image:url(" https://www.happycow.net/blog/wp-content/uploads/2015/08/madrid-07.jpg");
-  background-size: 100%;
-  color:white;
+  background-image:url("https://s-media-cache-ak0.pinimg.com/originals/a1/18/e3/a118e362fff002b3636cb1cc403aeedf.jpg");
+  background-size: 200%;
+
 }
 
-/*
+
+p {
+
+
+}
 .panel-heading {
-text-align: center;
+font-size: 2em;
 
 }
